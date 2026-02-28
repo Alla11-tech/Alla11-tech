@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Alla 👋
 
-<!--
-**Alla11-tech/Alla11-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Junior Fullstack Developer
+I’m currently completing the Fullstack Developer program at IT School GoIT.  
+I build responsive web applications using React, Next.js, TypeScript and Node.js.
+Focused on clean architecture, REST API integration and scalable frontend structure.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- React
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- Node.js
+- REST API
+- React Query
+- Zustand
+- Formik
+- HTML5
+- CSS3
+- Git & GitHub
+- Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+
+### 🔹 NoteHub — Fullstack Web Application
+Fullstack note management app with authentication and CRUD functionality.
+
+**Tech:** React, Next.js, TypeScript, Node.js, React Query, Zustand  
+🔗 Live: https://alla11-tech.github.io/08-zustand/  
+💻 Code: https://github.com/Alla11-tech
+
+---
+
+### 🔹 Animals — JavaScript Web Application
+Interactive web application with dynamic rendering and API integration.
+
+**Tech:** JavaScript (ES6+), DOM manipulation, REST API  
+🔗 Live: https://denis-ovcharov.github.io/animals-goit-project/  
+💻 Code: https://github.com/denis-ovcharov/animals-goit-project/pull/7  
+
+---
+
+### 🔹 Gravity Shift — Responsive Website
+Responsive multi-page website built according to design mockup.
+
+**Tech:** HTML5, CSS3, Responsive Design  
+🔗 Live: https://kostya088.github.io/project-gravity-shift/  
+💻 Code: https://github.com/Kostya088/project-gravity-shift/pull/11  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/alla-makhlai-mecon-b620b1176/
+- Email: allamoment@gmail.com
+- Telegram: https://t.me/Makhlai_Alla
